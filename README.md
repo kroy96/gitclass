@@ -2,3 +2,5 @@
 
 CHECK 
 node -v
+
+I CAN WRITE
